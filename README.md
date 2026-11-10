@@ -1,7 +1,6 @@
 # hey, im Przemek
 
-Software & web developer focused on building clean web apps and functional tools.  
-Completed 2 months of commercial software engineering internships across 2 companies.
+Software & web developer focused on building clean web apps and functional tools.
 
 ---
 
