@@ -31,6 +31,6 @@ Completed 2 months of commercial software engineering internships across 2 compa
 ### stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sobollll&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobollll&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sobollll&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sobollll&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
