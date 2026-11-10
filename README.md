@@ -1,6 +1,6 @@
-# hey, im Przemek
+# hey, im przemek
 
-Software & web developer focused on building clean web apps and functional tools.
+software & web developer focused on building clean web apps and functional tools.
 
 ---
 
@@ -19,7 +19,7 @@ Software & web developer focused on building clean web apps and functional tools
 ### projects
 
 - **in progress:**
-  - `Ashweave` — stealth web app
+  - `ashweave` — stealth startup
 
 - **completed:**
   - `CV Builder` — web tool for creating clean, structured resumes
